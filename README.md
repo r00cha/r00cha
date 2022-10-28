@@ -1,5 +1,5 @@
 ![MasterHead](https://www.joaorio.com/wp-content/uploads/2012/07/265_895_1_Logo-FEUP_Logo-FEUP.jpg)
-
+ 
 <h1 align="center">Hi 👋, I'm Miguel Rocha</h1>
 
 <h3 align="center">2nd year student @FEUP | Informatics and Computing Engineering</h3>
