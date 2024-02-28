@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img href="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Miguel Rocha</h1>
 
-<h3 align="center">2nd year student @FEUP | Informatics and Computing Engineering</h3>
+<h3 align="center">3rd year student @FEUP | Informatics and Computing Engineering</h3>
 
 <br>
 <h3 align="center">Languages and Tools:</h3>
